@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rithvikkoushik
+- 👋 Hi, I’m @Rithvik
 - 👀 I’m interested in PYTHON
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on JARVIS AI
